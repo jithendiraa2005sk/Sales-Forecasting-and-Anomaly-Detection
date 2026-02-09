@@ -1,4 +1,4 @@
-# Project Title
+# Dashboard Preview
 ![Dashboard Preview](./images/Dashboard.png)
 
 ---
