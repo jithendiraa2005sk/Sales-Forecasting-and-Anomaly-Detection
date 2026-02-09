@@ -1,5 +1,5 @@
-## 🖼️ Dashboard Preview
-![Sales Analytics Dashboard](./images/Dashboard.png) 
+# Project Title
+![Dashboard Preview](./images/Dashboard.png)
 
 ---
 
