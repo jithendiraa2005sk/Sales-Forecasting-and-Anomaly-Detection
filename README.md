@@ -1,3 +1,8 @@
+## 🖼️ Dashboard Preview
+![Sales Analytics Dashboard](./images/Dashboard.png) 
+
+---
+
 # 📊 Sales Forecasting & Anomaly Detection (using Power BI)
 
 ---
