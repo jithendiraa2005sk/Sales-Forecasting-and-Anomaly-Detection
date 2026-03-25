@@ -1,0 +1,59 @@
+Sales Forecasting & Anomaly Detection (AI Project) 
+
+
+
+Problem Statement
+
+
+
+A retail organization wants to move from reactive reporting to predictive analytics. Management wants to: 
+
+
+
+•	Forecast future sales 
+
+•	Detect unusual sales patterns 
+
+•	Identify risks and opportunities early 
+
+
+
+Manual analysis is no longer sufficient due to increasing data volume. 
+
+
+
+As an Advanced BI Analyst, your task is to: 
+
+
+
+•	Use AI-powered analytics in Power BI 
+
+•	Forecast future sales trends 
+
+•	Detect anomalies 
+
+•	Automatically generate insights using Smart Narratives 
+
+
+
+Questions: 
+
+
+
+•	Analyze historical sales trends using line charts. 
+
+•	Identify seasonality patterns in sales data. 
+
+•	Use forecasting to predict future sales. 
+
+•	Detect anomalies in sales data using AI visuals. 
+
+•	Explain potential reasons for detected anomalies. 
+
+•	Use Smart Narratives to summarize insights. 
+
+•	Compare actual sales with forecasted values. 
+
+•	How reliable is the forecast model? 
+
+•	What actions should management take based on AI insights? 
